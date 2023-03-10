@@ -17,7 +17,7 @@ To get started:
 
 This will open up a new browser tab to [http://localhost:3000](http://localhost:3000)
 
-You will need the [back-end server](https://github.com/apollographql/odyssey-voyage-II-server) running on `localhost:4000` for any queries to work.
+You will need the [back-end server](https://github.com/apollographql/odyssey-voyage-II-server) running on `localhost:4000` for any queries to work and start with `npm run launch` and `npm start` in the monolith directory.
 ## Getting Help
 
 For any issues or problems concerning the course content, please [refer to the Odyssey topic in our community forums](https://community.apollographql.com/tags/c/help/6/odyssey).
